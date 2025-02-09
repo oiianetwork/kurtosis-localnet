@@ -13,6 +13,14 @@ Run the following script:
 ./start.sh
 ```
 
+## Visit Dora Explorer
+
+The Dora Explorer will start at localhost on port 36000. Visit this URL directly to check it. Your node will produce blocks normally:
+
+[http://localhost:36000/](http://localhost:36000/)
+
+
+
 <!------------------------ Only links below here -------------------------------->
 
 [docker-installation]: https://docs.docker.com/get-docker/
