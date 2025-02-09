@@ -100,8 +100,7 @@ network_params:
   devnet_repo: ethpandaops
   prefunded_accounts: {}
 additional_services: [
-  el_forkmon,
-  dora,
+  dora
 ]
 dora_params:
   image: "ethpandaops/dora:latest"
@@ -180,7 +179,7 @@ keymanager_enabled: false
 checkpoint_sync_enabled: false
 checkpoint_sync_url: ""
 ethereum_genesis_generator_params:
-  image: ethpandaops/ethereum-genesis-generator:3.5.1
+  image: ethpandaops/ethereum-genesis-generator:3.7.0
 port_publisher:
   nat_exit_ip: KURTOSIS_IP_ADDR_PLACEHOLDER
   el:
