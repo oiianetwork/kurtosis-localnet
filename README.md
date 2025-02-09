@@ -12,3 +12,8 @@ Run the following script:
 ```bash
 ./start.sh
 ```
+
+<!------------------------ Only links below here -------------------------------->
+
+[docker-installation]: https://docs.docker.com/get-docker/
+[kurtosis-cli-installation]: https://docs.kurtosis.com/install
